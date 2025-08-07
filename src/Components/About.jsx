@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "/workspaces/portfolio/src/images/landscape.jpg";
+import image from "/workspaces/portfolio/src/images/design-desk.jpeg";
 
 const imageAltText = "two males military";
 
